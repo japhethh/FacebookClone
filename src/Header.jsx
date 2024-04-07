@@ -18,7 +18,7 @@ const Header = () => {
   const messages = [
     {
       id: 1,
-      name: "Adrian Barrioss",
+      name: "Adrian Barrios",
       nickname: "Underdog",
       profile:
         "https://scontent.fcrk1-4.fna.fbcdn.net/v/t39.30808-1/342805416_6430692393627804_7089258403426895782_n.jpg?stp=dst-jpg_p100x100&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeG7ztbAylG1EyV1_UXH8HyoLsM3d7qxNiAuwzd3urE2IObxzoQ7bkUiSo0Btdi3G45IyOY3PjehkPy187KWTzUI&_nc_ohc=CrwY1611DHEAb5BXT9H&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.fcrk1-4.fna&oh=00_AfC1f3-35BZJGcEsCXLsTr1ekepY9Hz1S9Y4EvRrjTvbNg&oe=66176AF9",
